@@ -1,4 +1,4 @@
-# java-summary
+JAVA技术总结
 
 #Java基础
 ## 集合
