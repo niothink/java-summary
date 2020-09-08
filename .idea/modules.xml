@@ -5,12 +5,14 @@
       <module fileurl="file://$PROJECT_DIR$/cache/cache.iml" filepath="$PROJECT_DIR$/cache/cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/db/db.iml" filepath="$PROJECT_DIR$/db/db.iml" />
       <module fileurl="file://$PROJECT_DIR$/design-pattern/design-pattern.iml" filepath="$PROJECT_DIR$/design-pattern/design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monitor/dingding/dingding.iml" filepath="$PROJECT_DIR$/monitor/dingding/dingding.iml" />
       <module fileurl="file://$PROJECT_DIR$/distribution-config/disconf/disconf.iml" filepath="$PROJECT_DIR$/distribution-config/disconf/disconf.iml" />
       <module fileurl="file://$PROJECT_DIR$/distribution/distribution.iml" filepath="$PROJECT_DIR$/distribution/distribution.iml" />
       <module fileurl="file://$PROJECT_DIR$/distribution/distribution-config/distribution-config.iml" filepath="$PROJECT_DIR$/distribution/distribution-config/distribution-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/distribution/distribution-config/distribution-config-apollo/distribution-config-apollo.iml" filepath="$PROJECT_DIR$/distribution/distribution-config/distribution-config-apollo/distribution-config-apollo.iml" />
       <module fileurl="file://$PROJECT_DIR$/distribution/distribution-config/distribution-config-nacos/distribution-config-nacos.iml" filepath="$PROJECT_DIR$/distribution/distribution-config/distribution-config-nacos/distribution-config-nacos.iml" />
       <module fileurl="file://$PROJECT_DIR$/distribution/distribution-registry/distribution-registry.iml" filepath="$PROJECT_DIR$/distribution/distribution-registry/distribution-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docs/docs.iml" filepath="$PROJECT_DIR$/docs/docs.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro-service/dubbo/dubbo.iml" filepath="$PROJECT_DIR$/micro-service/dubbo/dubbo.iml" />
       <module fileurl="file://$PROJECT_DIR$/cache/ehcache/ehcache.iml" filepath="$PROJECT_DIR$/cache/ehcache/ehcache.iml" />
       <module fileurl="file://$PROJECT_DIR$/cache/guava/guava.iml" filepath="$PROJECT_DIR$/cache/guava/guava.iml" />
@@ -22,8 +24,12 @@
       <module fileurl="file://$PROJECT_DIR$/micro-service/micro-service.iml" filepath="$PROJECT_DIR$/micro-service/micro-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/monitor/monitor.iml" filepath="$PROJECT_DIR$/monitor/monitor.iml" />
       <module fileurl="file://$PROJECT_DIR$/mq/mq.iml" filepath="$PROJECT_DIR$/mq/mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq/mq-kafka/mq-kafka.iml" filepath="$PROJECT_DIR$/mq/mq-kafka/mq-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq/mq-rabbitmq/mq-rabbitmq.iml" filepath="$PROJECT_DIR$/mq/mq-rabbitmq/mq-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq/mq-rocketmq/mq-rocketmq.iml" filepath="$PROJECT_DIR$/mq/mq-rocketmq/mq-rocketmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/db/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/db/mybatis/mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/db/mysql/mysql.iml" filepath="$PROJECT_DIR$/db/mysql/mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monitor/n9e/n9e.iml" filepath="$PROJECT_DIR$/monitor/n9e/n9e.iml" />
       <module fileurl="file://$PROJECT_DIR$/web-server/netty/netty.iml" filepath="$PROJECT_DIR$/web-server/netty/netty.iml" />
       <module fileurl="file://$PROJECT_DIR$/loadbalance/nginx/nginx.iml" filepath="$PROJECT_DIR$/loadbalance/nginx/nginx.iml" />
       <module fileurl="file://$PROJECT_DIR$/cache/redis/redis.iml" filepath="$PROJECT_DIR$/cache/redis/redis.iml" />

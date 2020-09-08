@@ -6,23 +6,27 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="mq-rocketmq" />
         <module name="disconf" />
         <module name="search" />
         <module name="dubbo" />
         <module name="redis" />
+        <module name="mq-rabbitmq" />
         <module name="design-pattern" />
         <module name="distribution-config-apollo" />
+        <module name="mq-kafka" />
         <module name="netty" />
-        <module name="monitor" />
+        <module name="dingding" />
         <module name="guava" />
         <module name="jetty" />
         <module name="spring" />
         <module name="web-server" />
         <module name="ehcache" />
         <module name="distribution-config-nacos" />
-        <module name="mq" />
         <module name="mybatis" />
+        <module name="docs" />
         <module name="nginx" />
+        <module name="n9e" />
         <module name="java-basic" />
         <module name="tidb" />
         <module name="keepalive" />
@@ -35,12 +39,14 @@
       <module name="cache" target="1.8" />
       <module name="db" target="1.8" />
       <module name="design-pattern" target="1.8" />
+      <module name="dingding" target="1.8" />
       <module name="disconf" target="1.8" />
       <module name="distribution" target="1.8" />
       <module name="distribution-config" target="1.8" />
       <module name="distribution-config-apollo" target="1.8" />
       <module name="distribution-config-nacos" target="1.8" />
       <module name="distribution-registry" target="1.8" />
+      <module name="docs" target="1.8" />
       <module name="dubbo" target="1.8" />
       <module name="ehcache" target="1.8" />
       <module name="guava" target="1.8" />
@@ -52,8 +58,12 @@
       <module name="micro-service" target="1.8" />
       <module name="monitor" target="1.8" />
       <module name="mq" target="1.8" />
+      <module name="mq-kafka" target="1.8" />
+      <module name="mq-rabbitmq" target="1.8" />
+      <module name="mq-rocketmq" target="1.8" />
       <module name="mybatis" target="1.8" />
       <module name="mysql" target="1.8" />
+      <module name="n9e" target="1.8" />
       <module name="netty" target="1.8" />
       <module name="nginx" target="1.8" />
       <module name="redis" target="1.8" />

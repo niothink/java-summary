@@ -6,14 +6,11 @@
         <artifactId>java-summary</artifactId>
         <groupId>com.niothink</groupId>
         <version>1.0.0</version>
+        <relativePath>../../pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>mq</artifactId>
-    <packaging>pom</packaging>
 
-    <modules>
-        <module>mq-kafka</module>
-        <module>mq-rabbitmq</module>
-        <module>mq-rocketmq</module>
-    </modules>
+    <artifactId>mq-rabbitmq</artifactId>
+
+
 </project>
