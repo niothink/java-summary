@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cache/cache.iml" filepath="$PROJECT_DIR$/cache/cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db/db.iml" filepath="$PROJECT_DIR$/db/db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-pattern/design-pattern.iml" filepath="$PROJECT_DIR$/design-pattern/design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distribution-config/disconf/disconf.iml" filepath="$PROJECT_DIR$/distribution-config/disconf/disconf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distribution/distribution.iml" filepath="$PROJECT_DIR$/distribution/distribution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distribution/distribution-config/distribution-config.iml" filepath="$PROJECT_DIR$/distribution/distribution-config/distribution-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distribution/distribution-config/distribution-config-apollo/distribution-config-apollo.iml" filepath="$PROJECT_DIR$/distribution/distribution-config/distribution-config-apollo/distribution-config-apollo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distribution/distribution-config/distribution-config-nacos/distribution-config-nacos.iml" filepath="$PROJECT_DIR$/distribution/distribution-config/distribution-config-nacos/distribution-config-nacos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distribution/distribution-registry/distribution-registry.iml" filepath="$PROJECT_DIR$/distribution/distribution-registry/distribution-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service/dubbo/dubbo.iml" filepath="$PROJECT_DIR$/micro-service/dubbo/dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cache/ehcache/ehcache.iml" filepath="$PROJECT_DIR$/cache/ehcache/ehcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cache/guava/guava.iml" filepath="$PROJECT_DIR$/cache/guava/guava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basic/java-basic.iml" filepath="$PROJECT_DIR$/java-basic/java-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-summary.iml" filepath="$PROJECT_DIR$/.idea/java-summary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-server/jetty/jetty.iml" filepath="$PROJECT_DIR$/web-server/jetty/jetty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loadbalance/keepalive/keepalive.iml" filepath="$PROJECT_DIR$/loadbalance/keepalive/keepalive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loadbalance/loadbalance.iml" filepath="$PROJECT_DIR$/loadbalance/loadbalance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service/micro-service.iml" filepath="$PROJECT_DIR$/micro-service/micro-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monitor/monitor.iml" filepath="$PROJECT_DIR$/monitor/monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq/mq.iml" filepath="$PROJECT_DIR$/mq/mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/db/mybatis/mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db/mysql/mysql.iml" filepath="$PROJECT_DIR$/db/mysql/mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-server/netty/netty.iml" filepath="$PROJECT_DIR$/web-server/netty/netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loadbalance/nginx/nginx.iml" filepath="$PROJECT_DIR$/loadbalance/nginx/nginx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cache/redis/redis.iml" filepath="$PROJECT_DIR$/cache/redis/redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/search.iml" filepath="$PROJECT_DIR$/search/search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service/springcloud/springcloud.iml" filepath="$PROJECT_DIR$/micro-service/springcloud/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db/tidb/tidb.iml" filepath="$PROJECT_DIR$/db/tidb/tidb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-server/web-server.iml" filepath="$PROJECT_DIR$/web-server/web-server.iml" />
+    </modules>
+  </component>
+</project>

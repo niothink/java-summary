@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="disconf" />
+        <module name="search" />
+        <module name="dubbo" />
+        <module name="redis" />
+        <module name="design-pattern" />
+        <module name="distribution-config-apollo" />
+        <module name="netty" />
+        <module name="monitor" />
+        <module name="guava" />
+        <module name="jetty" />
+        <module name="spring" />
+        <module name="web-server" />
+        <module name="ehcache" />
+        <module name="distribution-config-nacos" />
+        <module name="mq" />
+        <module name="mybatis" />
+        <module name="nginx" />
+        <module name="java-basic" />
+        <module name="tidb" />
+        <module name="keepalive" />
+        <module name="mysql" />
+        <module name="springcloud" />
+        <module name="distribution-registry" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cache" target="1.8" />
+      <module name="db" target="1.8" />
+      <module name="design-pattern" target="1.8" />
+      <module name="disconf" target="1.8" />
+      <module name="distribution" target="1.8" />
+      <module name="distribution-config" target="1.8" />
+      <module name="distribution-config-apollo" target="1.8" />
+      <module name="distribution-config-nacos" target="1.8" />
+      <module name="distribution-registry" target="1.8" />
+      <module name="dubbo" target="1.8" />
+      <module name="ehcache" target="1.8" />
+      <module name="guava" target="1.8" />
+      <module name="java-basic" target="1.8" />
+      <module name="java-summary" target="1.8" />
+      <module name="jetty" target="1.8" />
+      <module name="keepalive" target="1.8" />
+      <module name="loadbalance" target="1.8" />
+      <module name="micro-service" target="1.8" />
+      <module name="monitor" target="1.8" />
+      <module name="mq" target="1.8" />
+      <module name="mybatis" target="1.8" />
+      <module name="mysql" target="1.8" />
+      <module name="netty" target="1.8" />
+      <module name="nginx" target="1.8" />
+      <module name="redis" target="1.8" />
+      <module name="search" target="1.8" />
+      <module name="spring" target="1.8" />
+      <module name="springcloud" target="1.8" />
+      <module name="tidb" target="1.8" />
+      <module name="tomcat" target="1.8" />
+      <module name="web-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

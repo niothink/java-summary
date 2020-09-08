@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cache/ehcache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cache/ehcache/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cache/guava/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cache/guava/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cache/redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cache/redis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/db/mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/db/mybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/db/mysql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/db/mysql/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/db/tidb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/db/tidb/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distribution/distribution-config/distribution-config-apollo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distribution/distribution-config/distribution-config-apollo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distribution/distribution-config/distribution-config-nacos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distribution/distribution-config/distribution-config-nacos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distribution/distribution-registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distribution/distribution-registry/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-basic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-basic/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/loadbalance/keepalive/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/loadbalance/keepalive/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/loadbalance/nginx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/loadbalance/nginx/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service/dubbo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service/dubbo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service/springcloud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service/springcloud/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/monitor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/monitor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mq/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/search/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-server/jetty/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-server/jetty/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-server/netty/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-server/netty/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-server/tomcat/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-server/tomcat/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
