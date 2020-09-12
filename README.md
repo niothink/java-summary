@@ -1,4 +1,4 @@
-# JAVA技术总结
+JAVA体系技术总结
 <nav>
   <a href="#Java基础"> 一、Java基础</a><br/>
   <a href="#数据库总结">二、数据库总结</a><br/>
