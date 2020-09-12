@@ -6,31 +6,30 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mq-rocketmq" />
-        <module name="disconf" />
+        <module name="n9e" />
         <module name="search" />
-        <module name="dubbo" />
+        <module name="mybatis" />
         <module name="redis" />
-        <module name="mq-rabbitmq" />
-        <module name="design-pattern" />
         <module name="distribution-config-apollo" />
-        <module name="mq-kafka" />
         <module name="netty" />
-        <module name="dingding" />
         <module name="guava" />
+        <module name="tidb" />
         <module name="jetty" />
         <module name="spring" />
-        <module name="web-server" />
+        <module name="mq-kafka" />
         <module name="ehcache" />
-        <module name="distribution-config-nacos" />
-        <module name="mybatis" />
+        <module name="mq-rocketmq" />
+        <module name="disconf" />
+        <module name="mq-rabbitmq" />
+        <module name="mysql" />
+        <module name="web-server" />
         <module name="docs" />
         <module name="nginx" />
-        <module name="n9e" />
+        <module name="dingding" />
         <module name="java-basic" />
-        <module name="tidb" />
+        <module name="dubbo" />
         <module name="keepalive" />
-        <module name="mysql" />
+        <module name="distribution-config-nacos" />
         <module name="springcloud" />
         <module name="distribution-registry" />
       </profile>
@@ -39,6 +38,7 @@
       <module name="cache" target="1.8" />
       <module name="db" target="1.8" />
       <module name="design-pattern" target="1.8" />
+      <module name="design-pattern-singleton" target="1.8" />
       <module name="dingding" target="1.8" />
       <module name="disconf" target="1.8" />
       <module name="distribution" target="1.8" />

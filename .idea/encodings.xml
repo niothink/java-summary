@@ -13,8 +13,8 @@
     <file url="file://$PROJECT_DIR$/db/mysql/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/db/tidb/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/db/tidb/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/design-pattern/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/design-pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-pattern/design-pattern-singleton/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-pattern/design-pattern-singleton/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/distribution/distribution-config/distribution-config-apollo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/distribution/distribution-config/distribution-config-apollo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/distribution/distribution-config/distribution-config-nacos/src/main/java" charset="UTF-8" />
