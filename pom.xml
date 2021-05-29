@@ -16,7 +16,6 @@
         <module>design-pattern</module>
         <module>distribution</module>
         <module>java-basic</module>
-        <module>loadbalance</module>
         <module>micro-service</module>
         <module>monitor</module>
         <module>mq</module>
@@ -68,7 +67,6 @@
         </dependencies>
     </dependencyManagement>
 
-
     <build>
         <plugins>
             <plugin>
@@ -114,15 +112,6 @@
                     <source>1.8</source>
                     <target>1.8</target>
                     <encoding>UTF-8</encoding>
-                </configuration>
-            </plugin>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-release-plugin</artifactId>
-                <version>2.5.3</version>
-                <configuration>
-                    <tagNameFormat>v@{project.version}</tagNameFormat>
-                    <autoVersionSubmodules>true</autoVersionSubmodules>
                 </configuration>
             </plugin>
         </plugins>

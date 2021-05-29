@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>keepalive</artifactId>
+    <artifactId>loadbalance-tag-provider-two</artifactId>
 
 
 </project>

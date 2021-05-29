@@ -6,30 +6,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="n9e" />
+        <module name="disconf" />
         <module name="search" />
-        <module name="mybatis" />
+        <module name="loadbalance-tag-api" />
         <module name="redis" />
+        <module name="loadbalance-tag-consumer" />
         <module name="distribution-config-apollo" />
+        <module name="distribution-config-nacos" />
         <module name="netty" />
-        <module name="guava" />
-        <module name="tidb" />
-        <module name="jetty" />
         <module name="spring" />
+        <module name="guava" />
+        <module name="jetty" />
+        <module name="n9e" />
+        <module name="loadbalance-tag-provider-one" />
         <module name="mq-kafka" />
         <module name="ehcache" />
         <module name="mq-rocketmq" />
-        <module name="disconf" />
+        <module name="mybatis" />
         <module name="mq-rabbitmq" />
-        <module name="mysql" />
         <module name="web-server" />
         <module name="docs" />
-        <module name="nginx" />
         <module name="dingding" />
         <module name="java-basic" />
-        <module name="dubbo" />
-        <module name="keepalive" />
-        <module name="distribution-config-nacos" />
+        <module name="loadbalance-tag-provider-two" />
+        <module name="tidb" />
+        <module name="mysql" />
         <module name="springcloud" />
         <module name="distribution-registry" />
       </profile>
@@ -55,6 +56,10 @@
       <module name="jetty" target="1.8" />
       <module name="keepalive" target="1.8" />
       <module name="loadbalance" target="1.8" />
+      <module name="loadbalance-tag-api" target="1.8" />
+      <module name="loadbalance-tag-consumer" target="1.8" />
+      <module name="loadbalance-tag-provider-one" target="1.8" />
+      <module name="loadbalance-tag-provider-two" target="1.8" />
       <module name="micro-service" target="1.8" />
       <module name="monitor" target="1.8" />
       <module name="mq" target="1.8" />

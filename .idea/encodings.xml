@@ -24,12 +24,14 @@
     <file url="file://$PROJECT_DIR$/docs/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-basic/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-basic/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/loadbalance/keepalive/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/loadbalance/keepalive/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/loadbalance/nginx/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/loadbalance/nginx/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/micro-service/dubbo/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/micro-service/dubbo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service/dubbo/loadbalance/loadbalance-tag-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service/dubbo/loadbalance/loadbalance-tag-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service/dubbo/loadbalance/loadbalance-tag-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service/dubbo/loadbalance/loadbalance-tag-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service/dubbo/loadbalance/loadbalance-tag-provider-one/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service/dubbo/loadbalance/loadbalance-tag-provider-one/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service/dubbo/loadbalance/loadbalance-tag-provider-two/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-service/dubbo/loadbalance/loadbalance-tag-provider-two/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-service/springcloud/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/micro-service/springcloud/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/monitor/dingding/src/main/java" charset="UTF-8" />

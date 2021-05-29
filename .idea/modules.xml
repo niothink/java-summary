@@ -19,8 +19,11 @@
       <module fileurl="file://$PROJECT_DIR$/java-basic/java-basic.iml" filepath="$PROJECT_DIR$/java-basic/java-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-summary.iml" filepath="$PROJECT_DIR$/.idea/java-summary.iml" />
       <module fileurl="file://$PROJECT_DIR$/web-server/jetty/jetty.iml" filepath="$PROJECT_DIR$/web-server/jetty/jetty.iml" />
-      <module fileurl="file://$PROJECT_DIR$/loadbalance/keepalive/keepalive.iml" filepath="$PROJECT_DIR$/loadbalance/keepalive/keepalive.iml" />
-      <module fileurl="file://$PROJECT_DIR$/loadbalance/loadbalance.iml" filepath="$PROJECT_DIR$/loadbalance/loadbalance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service/dubbo/loadbalance/loadbalance.iml" filepath="$PROJECT_DIR$/micro-service/dubbo/loadbalance/loadbalance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service/dubbo/loadbalance/loadbalance-tag-api/loadbalance-tag-api.iml" filepath="$PROJECT_DIR$/micro-service/dubbo/loadbalance/loadbalance-tag-api/loadbalance-tag-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service/dubbo/loadbalance/loadbalance-tag-consumer/loadbalance-tag-consumer.iml" filepath="$PROJECT_DIR$/micro-service/dubbo/loadbalance/loadbalance-tag-consumer/loadbalance-tag-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service/dubbo/loadbalance/loadbalance-tag-provider-one/loadbalance-tag-provider-one.iml" filepath="$PROJECT_DIR$/micro-service/dubbo/loadbalance/loadbalance-tag-provider-one/loadbalance-tag-provider-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service/dubbo/loadbalance/loadbalance-tag-provider-two/loadbalance-tag-provider-two.iml" filepath="$PROJECT_DIR$/micro-service/dubbo/loadbalance/loadbalance-tag-provider-two/loadbalance-tag-provider-two.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro-service/micro-service.iml" filepath="$PROJECT_DIR$/micro-service/micro-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/monitor/monitor.iml" filepath="$PROJECT_DIR$/monitor/monitor.iml" />
       <module fileurl="file://$PROJECT_DIR$/mq/mq.iml" filepath="$PROJECT_DIR$/mq/mq.iml" />
@@ -31,7 +34,6 @@
       <module fileurl="file://$PROJECT_DIR$/db/mysql/mysql.iml" filepath="$PROJECT_DIR$/db/mysql/mysql.iml" />
       <module fileurl="file://$PROJECT_DIR$/monitor/n9e/n9e.iml" filepath="$PROJECT_DIR$/monitor/n9e/n9e.iml" />
       <module fileurl="file://$PROJECT_DIR$/web-server/netty/netty.iml" filepath="$PROJECT_DIR$/web-server/netty/netty.iml" />
-      <module fileurl="file://$PROJECT_DIR$/loadbalance/nginx/nginx.iml" filepath="$PROJECT_DIR$/loadbalance/nginx/nginx.iml" />
       <module fileurl="file://$PROJECT_DIR$/cache/redis/redis.iml" filepath="$PROJECT_DIR$/cache/redis/redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/search/search.iml" filepath="$PROJECT_DIR$/search/search.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
